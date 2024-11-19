@@ -13,7 +13,7 @@ This is a machine learning app.
 
 ## Section Heading
 
-This is filler text, please replace this with text for this section.
+This app demonstrates how to use machine learning to classify penguin species based on physical features such as bill length, flipper length, and body mass. The model uses a Random Forest Classifier to make predictions and display probabilities for each species (Adelie, Chinstrap, Gentoo). The app also provides visualizations of the data to help users understand the relationships between different features.
 
 ## Further Reading
 
