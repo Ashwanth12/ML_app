@@ -1,5 +1,4 @@
 import streamlit as st
-
-st.title('🎈 App Name')
-
-st.write('Hello world!')
+import numpy as np
+import pandas as pd
+from sklearn.ensemble import RandomForestClassifier
